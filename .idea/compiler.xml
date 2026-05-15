@@ -11,6 +11,7 @@
         <module name="api-gateway" />
         <module name="billings-service" />
         <module name="auth-service" />
+        <module name="integration-test" />
       </profile>
       <profile name="Annotation profile for patient-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
